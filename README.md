@@ -14,5 +14,6 @@ Criado várias funções com o intuito de quebrar o máximo de tarefas, uma ou m
 
 # Como executar:
 Certifique-se que tenhao pacote Anaconda esteja instalado e atualizado na maquina.
+Crie um diretório com nome data que vai receber os datasets.
 Inicialize o jupyter, navegue até o diretório do arquivo.
 Inicialize as células (RUN)
